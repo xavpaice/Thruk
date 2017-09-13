@@ -1337,6 +1337,7 @@ script/html2pdf.sh
 script/nagexp
 script/nagimp
 script/naglint
+script/phantomjs
 script/pnp_export.sh
 script/test_cpan_modules.pl
 script/test_page_rps
@@ -3153,3 +3154,6 @@ themes/themes-enabled/Thruk2
 themes/themes-enabled/Vautour
 themes/themes-enabled/Wakizashi
 thruk.conf
+usr/bin/lmd
+debian/thruk-plugin-reporting.lintian-overrides
+debian/thruk-plugin-reporting.lintian-overrides
