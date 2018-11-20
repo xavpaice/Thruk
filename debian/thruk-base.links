@@ -1,0 +1,2 @@
+/etc/apache2/conf.d/thruk.conf /etc/apache2/conf-available/thruk.conf
+/etc/apache2/conf.d/thruk_cookie_auth_vhost.conf /etc/apache2/conf-available/thruk_cookie_auth_vhost.conf

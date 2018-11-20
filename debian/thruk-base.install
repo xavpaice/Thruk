@@ -65,3 +65,10 @@
 /usr/share/thruk/themes
 /var/cache/thruk
 /var/log/thruk
+/usr/bin/lmd
+/etc/apache2/conf.d/thruk.conf
+/etc/apache2/conf.d/thruk_cookie_auth_vhost.conf
+/etc/apache2/conf.d/thruk.conf
+/etc/apache2/conf.d/thruk_cookie_auth_vhost.conf
+/etc/apache2/conf.d/thruk.conf
+/etc/apache2/conf.d/thruk_cookie_auth_vhost.conf

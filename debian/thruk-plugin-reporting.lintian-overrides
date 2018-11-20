@@ -1,0 +1,6 @@
+thruk-plugin-reporting: embedded-library usr/lib/x86_64-linux-gnu/thruk/phantomjs: sqlite
+thruk-plugin-reporting: embedded-library usr/lib/x86_64-linux-gnu/thruk/phantomjs: libpng
+thruk-plugin-reporting: embedded-library usr/lib/x86_64-linux-gnu/thruk/phantomjs: zlib
+thruk-plugin-reporting: embedded-library usr/lib/x86_64-linux-gnu/thruk/phantomjs: libjpeg
+thruk-plugin-reporting: embedded-library usr/lib/x86_64-linux-gnu/thruk/phantomjs: openssl
+thruk-plugin-reporting: hardening-no-relro usr/lib/x86_64-linux-gnu/thruk/phantomjs
