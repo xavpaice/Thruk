@@ -1,8 +1,18 @@
-thruk (2.24-2) UNRELEASED; urgency=low
+thruk (2.24-2ubuntu2) xenial; urgency=medium
 
+  * PPA Xenial release
+
+ -- Xav Paice <xav.paice@canonical.com>  Thu, 22 Nov 2018 09:55:49 +1300
+
+thruk (2.24-2ubuntu1) trusty; urgency=low
+
+  [ Thruk Development Team ]
   * new upstream release
 
- -- Thruk Development Team <devel@thruk.org>  Tue, 06 Nov 2018 16:18:50 +0100
+  [ Xav Paice ]
+  * Trusty release
+
+ -- Xav Paice <xav.paice@canonical.com>  Wed, 21 Nov 2018 10:32:00 +1300
 
 thruk (2.24) UNRELEASED; urgency=low
 
