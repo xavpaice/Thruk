@@ -9,7 +9,8 @@ Build-Depends: debhelper (>= 7),
                libdate-calc-perl,
                libcss-compressor-perl,
                lsb-release,
-               bc
+               bc,
+               apache2
 Standards-Version: 3.7.3
 Homepage: http://www.thruk.org
 Bugs: https://github.com/sni/Thruk/issues
@@ -47,7 +48,7 @@ Description: Monitoring Webinterface for Nagios/Icinga and Shinken
 
 Package: thruk-plugin-reporting
 Architecture: any
-Depends: ${misc:Depends}, ${perl:Depends}, ${shlibs:Depends}, phantomjs,
+Depends: ${misc:Depends}, ${perl:Depends}, ${shlibs:Depends}, 
          thruk-base (= ${source:Version}), fonts-liberation
 Description: This package contains the reporting addon for thruk useful for sla
  and event reporting.

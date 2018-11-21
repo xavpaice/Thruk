@@ -1,3 +1,9 @@
+thruk (2.24-2ubuntu3) bionic; urgency=medium
+
+  * PPA Bionic release 
+
+ -- Xav Paice <xav.paice@canonical.com>  Thu, 22 Nov 2018 11:59:36 +1300
+
 thruk (2.24-2ubuntu2) xenial; urgency=medium
 
   * PPA Xenial release
